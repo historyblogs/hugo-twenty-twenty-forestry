@@ -4,6 +4,7 @@ date: 2020-03-14T15:40:24.000+06:00
 image: https://res.cloudinary.com/on-bunker-hill/image/upload/v1646362365/NathanMarsak_LosAngelesMag_MG_8466-v2_tl2g9y.jpg
 author:
 - Nathan
+- Nathan
 categories:
 - Working days
 tags:
